@@ -17,3 +17,5 @@ git log --oneline --graph --all
 git log --oneline --graph --all --decorate
 gitk --all
 git checkout -b bug-fix-1
+git branch -d bug-fix-1
+git merge bug-fix-1 
