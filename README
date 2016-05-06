@@ -5,3 +5,4 @@ git config --global user.email fabien.gaubert@orange.com
 export GIT_EDITOR=vim
 git commit -a
 git commit -m 'add LICNCE File'
+git add .gitignore
