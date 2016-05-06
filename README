@@ -15,3 +15,4 @@ git log --pretty=
 F
 git log --oneline --graph --all
 git log --oneline --graph --all --decorate
+gitk --all
