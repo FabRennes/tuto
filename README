@@ -13,6 +13,10 @@ git log --oneline
 git log --graph
 git log --pretty=
 F
+<<<<<<< HEAD
 git log --oneline --graph --all
 git log --oneline --graph --all --decorate
 gitk --all
+=======
+git checkout -b bug-fix-1
+>>>>>>> bug-fix-1
