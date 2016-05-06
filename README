@@ -13,3 +13,4 @@ git log --oneline
 git log --graph
 git log --pretty=
 F
+git checkout -b bug-fix-1
