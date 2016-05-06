@@ -2,3 +2,4 @@
 git config --global user.name Fabien GAUBERT
 git config --global color.ui true
 git config --global user.email fabien.gaubert@orange.com
+export GIT_EDITOR=vim
