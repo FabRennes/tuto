@@ -1,4 +1,3 @@
-
 git config --global user.name Fabien GAUBERT
 git config --global color.ui true
 git config --global user.email fabien.gaubert@orange.com
@@ -6,3 +5,10 @@ export GIT_EDITOR=vim
 git commit -a
 git commit -m 'add LICNCE File'
 git add .gitignore
+git diff --staged README
+git diff --cached README
+git diff HEAD README
+git log --stat
+git log --oneline
+git log --graph
+git log --pretty=
