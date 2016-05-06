@@ -1,3 +1,3 @@
 *.old
 tmp/
-!/tmp/master.txt
+!tmp/master.txt
