@@ -12,3 +12,4 @@ git log --stat
 git log --oneline
 git log --graph
 git log --pretty=
+F
