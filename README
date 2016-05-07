@@ -19,3 +19,4 @@ gitk --all
 git checkout -b bug-fix-1
 git branch -d bug-fix-1
 git merge bug-fix-1 
+git remote add origin https://github.com/FabRennes/tuto.git
